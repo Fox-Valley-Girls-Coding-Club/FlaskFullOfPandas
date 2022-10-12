@@ -50,9 +50,4 @@ html_file = open("dataTable.html", "w")
 html_file.write(html_table)
 html_file.close()
 print("Data table saved to dataTable.html")
-
-# Take a look at the dataTable.html that is created
-
-
-
-
+#Take a look at the dataTable.html file that was created!
